@@ -25,7 +25,7 @@ Then to start development mode with hot module reloading, run:
 npm start
 ```
 
-This will start the development server after compiling the project, once it is finished, navigate to http://localhost:8080 to view the application .
+This will start the development server after compiling the project.
 
 To build the application and make ready for production:
 
