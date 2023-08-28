@@ -4,6 +4,7 @@
     </PropertyGroup>
     <ItemGroup>
         <Compile Include="Components/Test.fs" />
+        <Compile Include="Pages/Joke_.fs" />
         <Compile Include="Main.fs" />
     </ItemGroup>
     <ItemGroup>
