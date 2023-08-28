@@ -6,8 +6,7 @@ open Feliz
 
 type Components =
 
-    [<ReactComponent>]
-    static member Test() =
+    static member Test =
 
         let (count, setCount) = React.useState 0
 
