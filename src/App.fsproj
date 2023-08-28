@@ -3,7 +3,7 @@
         <TargetFramework>net7.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
-        <Compile Include="Components.fs" />
+        <Compile Include="Components/Test.fs" />
         <Compile Include="Main.fs" />
     </ItemGroup>
     <ItemGroup>
