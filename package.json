@@ -5,7 +5,7 @@
     "start": "dotnet fable watch src --runFast vite",
     "build": "dotnet fable src --run vite build",
     "clean": "dotnet fable clean src --yes",
-    "format": "dotnet fantomas -r ."
+    "format": "dotnet fantomas ."
   },
   "dependencies": {
     "react": "^18.2.0",
